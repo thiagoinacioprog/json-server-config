@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "nome": "Game Boy",
+      "preco": "900",
+      "id": 2
+    },
+    {
+      "nome": "Atari",
+      "preco": "2000",
+      "id": 3
+    },
+    {
+      "nome": "Game Boy",
+      "preco": "2000",
+      "id": 4
+    }
+  ]
+}
